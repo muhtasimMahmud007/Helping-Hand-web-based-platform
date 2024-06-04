@@ -13,7 +13,7 @@ A web base platform, where clients can hire worker easily.
 
 
 ## Build Instructions
-- Clone the repo using ```git clone https://github.com/swapnilGhosh007/helepinghand.git](https://github.com/muhtasimMahmud007/Helping-Hand-web-based-platform.git```
+- Clone the repo using ```https://github.com/muhtasimMahmud007/Helping-Hand-web-based-platform.git```
 - Make sure you have Python 3.9 or higher installed
 - To install dependencies,
     - ```conda create -n helpinghand python=3.9```
