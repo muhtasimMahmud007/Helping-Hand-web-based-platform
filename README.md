@@ -1,4 +1,4 @@
-# HelpingHand
+# Helping-Hand-web-based-platform# HelpingHand
 
 A web base platform, where clients can hire worker easily.
 
